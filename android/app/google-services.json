@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "293900070921",
+    "project_id": "happy-recycle",
+    "storage_bucket": "happy-recycle.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293900070921:android:dc37bf53ad1b7dbe8f48d8",
+        "android_client_info": {
+          "package_name": "com.example.dash_board_recycle_happy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuexWXHIFDt_mH1hbtG0hs19damgh2J8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293900070921:android:8c48404c28c3f1fb8f48d8",
+        "android_client_info": {
+          "package_name": "com.example.recycle_happy_custom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuexWXHIFDt_mH1hbtG0hs19damgh2J8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
